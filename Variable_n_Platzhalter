@@ -1,0 +1,4 @@
+test1 = "tester1"
+test2 = "tester2"
+testsatz = f"{test1} blablabla {test2} blablabla."
+print(testsatz)
