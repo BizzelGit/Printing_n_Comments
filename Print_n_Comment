@@ -1,0 +1,8 @@
+print("Test Syntax1") 
+# Syntax for Printing out Stuff
+
+print("Test", "Syntax1")
+# Syntax for Printing out Stuff with Spaces
+
+"""Test Comment dies das Anans
+Blablabk """
